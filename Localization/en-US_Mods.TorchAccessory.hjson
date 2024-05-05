@@ -1,0 +1,8 @@
+# This file will automatically update with entries for new content after a build and reload.
+
+Items: {
+	TorchAccessory: {
+		DisplayName: Torch Accessory
+		Tooltip: Emits an aura of light when equipped
+	}
+}

@@ -1,0 +1,3 @@
+displayName = TorchAccessory
+author = MrQuba
+version = 1.0
